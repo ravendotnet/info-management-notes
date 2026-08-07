@@ -30,7 +30,7 @@
         </ul>
     </li>
 </ul>
-<img src="/assets/S02-L03/{C989CDA0-5B3A-495B-9888-5FB3931F9F89}.png">
+<img src="./assets/S02-L02/{C989CDA0-5B3A-495B-9888-5FB3931F9F89}.png">
 
 <ul>
     <li style="list-style-type:disc;font-size:11pt;font-family:Arial,sans-serif;">
@@ -60,7 +60,7 @@
         </li>
     </ul>
 </ul>
-<img src="/assets/S02-L03/{98DFDCC8-105C-4421-A771-80D2C6F1A8C5}.png">
+<img src="./assets/S02-L02/{98DFDCC8-105C-4421-A771-80D2C6F1A8C5}.png">
 <ul>
     <li style="list-style-type:disc;font-size:11pt;font-family:Arial,sans-serif;">
         <p role="presentation"><span style="font-size:11pt;font-family:Arial,sans-serif;">Attributes have values. An attribute value can be a number, a character string, a date, an image, a sound, etc. These are called &quot;data types&quot; or &quot;formats.&quot; Every attribute stores one piece of data of one specific data type.</span></p>
